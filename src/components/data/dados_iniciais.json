@@ -1,7 +1,7 @@
 {
   "categorias": [
     {
-      "titulo": "Vídeos que dão calma & tranquilidade",
+      "titulo": "Corean Food",
       "link": "https://www.youtube.com/watch?v=qPJFVKf9E8U",
       "cor": "#6BD1FF",
       "link_extra": {
@@ -64,17 +64,17 @@
           "url": "https://www.youtube.com/watch?v=OjBsyL5odg0"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Super Lazy Snack Ideas! { healthy + easy }",
+          "url": "https://www.youtube.com/watch?v=iS-eEv3uATU"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "20 Minute Meal Ideas ",
+          "url": "https://www.youtube.com/watch?v=qsnhQE2ccjo"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "",
       "cor": "#9cd33b",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
